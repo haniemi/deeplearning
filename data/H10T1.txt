@@ -1,0 +1,101 @@
+Tietojenkäsittelyn tutkinto-ohjelman opetussuunnitelman vahvistamisprosessi on edennyt seuraavasti:
+
+Tietojenkäsittelyn koulutuksesta on opiskelijakunta SAMMAKKO antanut lausuntonsa 20.1.2021. Osaamisalueen johtotiimi on antanut lausunnon 15.1.2021. Opetussuunnitelma on käsitelty koulutustoimikunnassa 21.1.2021.
+
+Opetussuunnitelmaan on vuoden 2021 käsittelyn jälkeen lisätty yksi opintojakso ja opintojaksojen arviointikriteerit. Myös opetussuunnitelman kuvausosa on päivitetty.
+
+Opetussuunnitelma on käsitelty koulutustoimikunnassa 16.2.2023. Koulutustoimikunta on hyväksynyt ja vahvistanut opetussuunnitelman käytettäväksi lukuvuodesta 2023 - 2024 alkaen.
+
+
+1 OPETUSSUUNNITELMAT SATAKUNNAN AMMATTIKORKEAKOULUSSA
+
+Satakunnan ammattikorkeakoulun opetussuunnitelmat ovat osaamisperustaisia ja noudattavat eurooppalaista ja kansallista tutkintojen viitekehystä. Ne edistävät opetuksen tasa-arvoa, yhdenvertaisuutta ja ajantasaisuutta. Kestävä kehitys ja vastuullisuus ovat läpileikkaavia teemoja kaikissa opetussuunnitelmissa. Omaan erityisalaan liittyvän osaamisen lisäksi opiskelija saavuttaa vähintään perustiedot kestävästä kehityksestä ja vastuullisuudesta sekä valmiudet jatkuvaan oppimiseen.
+
+Opiskelu perustuu joustavuuteen ja henkilökohtaistamiseen. Tavoitteena on ydinosaamisen ja täydentävän osaamisen erilaisilla yhdistämisillä saavuttaa tavallisuudestakin poikkeavia osaamiskokonaisuuksia. Opetussuunnitelmissa on määritelty tutkinnon edellyttämä osaaminen ja kuvattu moduulien/opintojaksojen osaamistavoitteet, käsiteltävät asiasisällöt sekä opiskelijan oppimista ohjaavat arviointikriteerit soveltaen SAMKin arviointikehikkoa. Tarkemmat toteutuskohtaiset tiedot ja suorittamiseen liittyvät käytänteet kuvataan opintojaksojen toteutussuunnitelmilla.
+
+Opetussuunnitelma on toteutuksen ja valintojen suunnittelun työväline. Se luo perustan opiskelijan henkilökohtaiselle opiskelusuunnitelmalle (HOPS) ja oman osaamisensa jatkuvalle kehittämiselle. Opetussuunnitelma etenee perus- ja ammattiopintojen kautta harjoitteluun ja opinnäytetyöhön. Opetussuunnitelma havainnollistaa opiskelijalle, miten hänen oppimisensa etenee kohti tutkintoa.
+
+Ydinosaamisen kokonaisuuksilla opiskelija hankkii tutkinnon edellyttämän osaamisen. Täydentäviä opintoja valitsemalla opiskelija profiloituu kohti asettamiaan ammatillisia tavoitteita. Opiskelija voi sisällyttää henkilökohtaiseen suunnitelmaansa (HOPS) täydentäviä opintoja kaikista SAMKin perustutkintojen tutkinto-ohjelmista sekä muiden suomalaisten ja/tai ulkomaisten korkeakoulujen tutkinto-ohjelmista.
+
+Satakunnan ammattikorkeakoulun tutkinnoissa noudatetaan Valtioneuvoston asetusta ammattikorkeakouluista (A1129/2014).
+
+
+2 PEDAGOGISET LÄHTÖKOHDAT (SAMK)
+
+Satakunnan ammattikorkeakoulussa pedagogisen työn lähtökohtana on sosiaalisesti ja kulttuurisesti kestävä koulutus, mikä toteuttaa YK:n Kestävän kehityksen Agendan 2030 Hyvän koulutuksen tavoitetta. Tuotamme avointa, tasa-arvoista ja laadukasta koulutusta. Tarjoamme erilaisia polkuja tuleville opiskelijoille sekä elinikäisen jatkuvan oppimisen tavoitteiden mukaiset mahdollisuudet osaamisensa kehittämiseen korkeakouluopinnoilla.
+
+Opintojaksoista saatava opiskelijapalaute on tärkeää opetuksen laadun kehittämisessä. Oppimisen kokeminen tavoitteelliseksi ja merkitykselliseksi on keskeistä. Opiskelija on oman osaamisensa kasvussa ja sen itsearvioinnissa aktiivinen ja vastuullinen toimija. Pedagogiset menetelmät opetuk-sessa tukevat arkitiedosta asiantuntijuuteen kehittymistä ja koulutus antaa valmiudet oman osaamisen kehittämiseen myös ammattikorkeakoulututkinnon jälkeen.
+
+Menetelmällisin ratkaisuin ja yhteisen arviointikehikon mukaisella arvioinnilla tuetaan työelämän tarvitsemien ja jatkuvan oppimisen valmiuksien kannalta keskeisten geneeristen taitojen kehittymistä: ongelmanratkaisutaitoja, oman työn johtamisen taitoja, vuorovaikutustaitoja, itseohjautuvuutta sekä kykyä oppia ja omaksua uutta.
+
+Pedagogisessa työssään opettaja tuntee vastuunsa opiskelijan ammatillisen kasvun tukijana. Ammattikorkeakoulun digitaaliset oppimisympäristöt ovat käytössä kaikilla opintojaksoilla turvaamassa koulutuksen saavutettavuutta ja esteettömyyttä. Opintojaksoissa oppimisanalytiikkaa ja arvioinnin avoimuutta hyödynnetään laajasti tukemassa opiskelijan itseohjautuvuutta, oman osaamisen arviointikykyä, opiskelutaitoa ja opettajan ohjauksellista työtä opintojakson tavoitteiden saavuttamiseksi.
+
+SAMKin pedagogiset lähtökohdat ja arviointikehikko kuvataan tarkemmin Opetuksen pedagogiset lähtökohdat ja osaamiseen perustuva arviointi Satakunnan ammattikorkeakoulussa -julkaisussa, https://urn.fi/URN:NBN:fi-fe2019121949080.
+
+
+3 OPISKELU TIETOJENKÄSITTELYN TUTKINTO-OHJELMASSA
+
+Tietojenkäsittelyn tutkinto-ohjelmassa suoritetaan tradenomi-tutkinto, jonka laajuus on 210 opintopistettä. Tavoiteaika valmistumiselle on 3,5 vuotta opintojen aloittamisesta.
+
+Tutkinto rakentuu seuraavista osista:
+
+Perusopinnot 80 op
+Ammattiopinnot 75 op
+Vapaasti valittavat opinnot 10 op
+Harjoittelu 30 op
+Opinnäytetyö 15 op
+
+Opinnoista kaikille yhteisiä ja pakollisia ovat perusopinnot, harjoittelu ja opinnäytetyö. Ammattiopinnot valitaan tutkinto-ohjelman tarjonnasta. Vapaasti valittavat opinnot opiskelija voi valita joko SAMKin tai muiden korkeakoulujen tarjonnasta.
+
+Perusopinnoissa opiskelija saavuttaa kieli- ja viestintätaidon sekä projektityöskentelytaidon ohella osaamisen ICT-alan yleistaidoissa, joita ovat ohjelmointitaito, tietokannan käyttämistaito, teollinen ohjelmistotuotanto, tietoverkkojen perusosaaminen ja toimialuepalvelut.
+
+Ammattiopinnoissa opiskelijan valintojen kautta muodostuu täydentävä osaaminen. Opiskelija rakentaa oman asiantuntijuutensa tulevaan ammattiinsa niin, että valmistuttuaan hän kykenee itsenäisesti työskentelemään tehtäväalueen asiantuntijatehtävissä ja yrittäjänä sekä osallistumaan työyhteisön kehittämiseen.
+
+Ammattiopintojen täydentävä osaaminen on jaettu neljään eri moduuliin ja niissä edelleen useampiin opintokokonaisuusiin:
+
+- dataosaamisen aihealue sisältäen tietokantojen ja data-analytiikan opintokokonaisuudet.
+- infraosaamisen aihealue sisältäen paikallisen infrastruktuurin ja pilvi-infrastruktuurin opintokokonaisuudet.
+- menetelmäosaamisen aihealue sisältäen ohjelmistorobotiikan, ohjelmistotuotannon, ICT-alan johtamisen ja yrittäjyyden sekä ICT-liiketoiminnan opintokokonaisuudet.
+- ohjelmointiosaamisen aihealue sisältäen yleisen ohjelmointitaidon, algoritmien, älykkäiden algoritmien, tehokkuuden ja web-järjestelmien opintokokonaisuudet.
+
+Lisäksi ammattiopintoina voidaan suorittaa ICT-alaan liittyviä projekteja ja kulloinkin ajankohtaisiin aiheisiin liittyviä teemaopintoja.
+
+Tietojenkäsittelyn tutkinto-ohjelma kuuluu ICT-alaan (Information and Communication Technology), jolle on tyypillistä jatkuva kehitys ja muutos. ICT-alalle suuntautuva on valmistuttuaan omaksunut jatkuvan oppimisen periaatteen.
+
+Tutkinnosta voidaan osa suorittaa kansainvälisesti. Opiskelijalla on mahdollisuus suorittaa käytännön työharjoittelu ulkomailla tai hän voi hakeutua vaihto-opiskelijaksi ulkomaiseen ammattikorkeakouluun tai yliopistoon ja suorittaa siellä tutkintoon hyväksi luettavia opintojaksoja. Opiskelijalla on myös mahdollisuus sisällyttää ammattiopintoihin ja/tai vapaasti valittaviin opintoihin muissa korkeakouluissa suoritettuja englanninkielisiä opintojaksoja.
+
+Kestävä kehitys toteutuu opinnoissa läpileikkaavasti. Opintojaksoilla edistetään yhdenvertaisuutta ja sosiaalista ja kulttuurista kestävää kehitystä yksilöllisyyden, ryhmätyöskentelyn ja vastuunottamisen avulla. Taloudellisesti kestävä kehitys näkyy työturvallisuuden ja kustannustehokkuuden teemojen myötä. Opinnoissa on myös ekologisesti kestävää kehitystä tukevia aiheita, kuten pilvipalvelujen käyttäminen ja tekoälyn soveltaminen.
+
+Opinnoissa korostetaan oppimisen läheistä liittymistä työelämään. Työelämäyhteistyö toteutuu ensisijaisesti harjoittelun yhteydessä. Usein myös opinnäytetyö tehdään työelämän kanssa yhteistyössä. Opintoihin voi myös kuulua työelämän kanssa toteutettavia ICT-projekteja. Yritykset ja organisaatiot voivat myös osallistua vierailuluentojen avulla opintojaksojen toteutukseen.
+
+
+4 HANKITUN OSAAMISEN TUNNISTAMINEN JA OPINNOLLISTAMINEN TUTKINTO-OHJELMASSA
+
+Opiskelija laatii henkilökohtaisen opintosuunnitelman (HOPS), joka perustuu tutkinto-ohjelman opetussuunnitelmaan. Opiskelija voi hakea aiemmin hankkimansa osaamisen tunnistamista ja tunnustamista (AHOT) osaksi suoritettavaa tutkintoa. Osaaminen näytetään AHOToinnin vastaanottavan opettajan määrittelemällä tavalla, useimmiten tenttimenettelyllä.
+
+Opintojen aikaisen työssäkäynnin tuottaman osaamisen opinnollistaminen on mahdollista ammattiopintojen osalta. Opinnollistamisesta sovitaan etukäteen ennen oppimiseen liittyvän työn tekemistä.
+
+
+5 SIJOITTUMINEN TYÖELÄMÄÄN JA JATKO-OPINTOMAHDOLLISUUDET
+
+Tietojenkäsittelyn tutkinnon suorittaneen työpaikka voi olla millä tahansa alalla, kuten ICT-palvelut, kauppa, teollisuus, sosiaali- ja terveysala, koulutus tai julkishallinto. Hän voi myös perustaa oman yrityksen. Tietojenkäsittelijä voi aloittaa uransa esimerkiksi nimikkeillä sovelluskehittäjä (software developer), ohjelmistosuunnittelija (program designer), data-analyytikko (data analyst), projektipäällikkö (project manager), järjestelmäasiantuntija, ICT-tukihenkilö, kouluttaja tai sovellusneuvoja. Kokemuksen kasvaessa hän voi edetä yhä vaativampiin tehtäviin.
+
+Tietojenkäsittelyn tutkinto-ohjelma antaa valmiudet jatkaa opintoja joko ylemmässä ammattikorkeakoulututkinnossa (YAMK) tai yliopistossa (esim. tietojenkäsittelytiede tai kauppatieteiden tietojärjestelmätiede).
+
+
+6 OPISKELUMUODOT
+
+Opiskelu tapahtuu pääasiassa päiväopiskeluna ollen päätoimista ja kokopäiväistä. Opintojaksoilla on yleensä sähköinen oppimisympäristö materiaalien ja tehtävien jakamiseen. Opintojaksoilla voi olla kontakti- ja/tai etäopetusta, mutta tyypillisesti ilman läsnäolovelvoitetta.
+
+Tietojenkäsittelyn opetuksessa teoria ja käytäntö limittyvät. Opittaviin taitoihin liittyvällä teorialla on suuri merkitys, sillä vain teorian ymmärtämällä opiskelijalle voi kehittyä tarvittavat soveltamisen taidot, joita häneltä työmarkkinoilla edellytetään. Tämä edellyttää aina myös opiskelijan omakohtaista, itsenäistä työskentelyä ja tiedonhakutaitoa.
+
+
+7 OSAAMISEN KASVU
+
+Osaamisen kasvu kuvaa opiskelijan taitojen ja tietojen syvenemistä/etenemistä perustasolta kehittyneen osaamisen tasolle.
+
+Opetussuunnitelman opintojaksojen tavoitteiden ja sisällön jälkeen on merkitty, mitä osaamisen tasoa opintojakso edustaa. Tasot ovat perustaso, edistynyt ja kehittynyt osaaminen.
+
+Perusosaaminen on osaamista, joka ei edellytä aiempaa aiheen mukaista osaamista. Edistyneessä osaamisessa sovelletaan perusosaamiseen liittyvää tietoa ja taitoa, joka voi edellyttää aiempaa osaamista. Kehittynyt osaaminen edellyttää aiempaa osaamista ja vaativuudessaan ajoittuu usein tutkinnossa opintojen loppuvaiheeseen.
+
+Opintojakson tuottama osaaminen arvioidaan perustuen SAMKin kriteeriviitteiseen arviointiin ja arviointikehikkoon.
